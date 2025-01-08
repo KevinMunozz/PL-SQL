@@ -1,2 +1,2 @@
 # PL-SQL
-Script de sentancias PL/SQL.
+Script de sentencias PL/SQL.
